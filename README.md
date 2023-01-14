@@ -327,6 +327,17 @@ En el presente video se explican unos ejercicios para la mejor comprensión del 
 
 # 5.-CONCLUSIONES
          
+•	El conocimiento de los métodos de corriente y voltaje alterno nos permite saber el valor de un elemento comprendiendo su onda sinusoidal y seno que genera dicho voltaje.
+
+•	En el análisis de CA se parte de la aplicación de LVK, LCK, OHM ya que el fasor se representa como un número complejo y es muy útil, ya que se utiliza para representar una oscilación. 
+
+•	Para que los condensadores al poder almacenar energía son muy usados en el campo de sistemas computacionales, en la electricidad y en la electrónica, algunas de las aplicaciones son: Almacenamiento eléctrico, Filtrador en una fuente de potencia, Bloqueador de cd y acoplamiento de CA , Filtrador de señal, en las memorias de computadora y en circuitos temporizadores.
+
+•	Podemos decir que se pudo lograr comprender el funcionamiento de los condensadores y los diferentes tipos asi como que en un circuito serie de condensadores, la capacitancia total se obtiene usando la fórmula de la RT en un circuito paralelo. En cambio en un circuito paralelo la capacitancia total se obtiene sumando la capacitancia de los condensadores conectados.
+
+•	Al resolver los problemas del libro de Floyd se logró afianzar la parte de teoría con la vida real logrando un mejor dominio de los temas de investigación del presente informe.
+	 
+	 
 # 6.-BIBLIOGRAFÍA:
 
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos. México: Pearson Educación.

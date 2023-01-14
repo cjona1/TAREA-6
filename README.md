@@ -323,7 +323,7 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 En el presente video se explican unos ejercicios para la mejor comprensión del tema.
 
-
+https://youtu.be/SUm8qBnplQM
 
 # 5.-CONCLUSIONES
          
